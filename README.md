@@ -58,6 +58,7 @@ Nice to meet you, I'm Abhishek Mahajan aka abhishekmahaja
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
 <a href="https://x.com/AbhiMahajan_001" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-Twitter-%233781da" alt="Twitter"/></a>
+<img src="https://img.shields.io/badge/-Twitter-%23eb13a5" alt="Twitter" /></a>
+
 
 </p>
