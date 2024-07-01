@@ -7,7 +7,7 @@ Nice to meet you, I'm Abhishek Mahajan aka abhishekmahaja
 - 🤓 Developer
 - 👩‍💻 Working on Web Development
 - 🎯 Goal : To be a better Developer
-- 📫 How to reach me : [abhishekmahajan8285@gmail.com](abhishekmahajan8285@gmail.com)
+- 📫 You can reach me at [abhishekmahajan8285@gmail.com](mailto:abhishekmahajan8285@gmail.com).
 
 <br>
 
