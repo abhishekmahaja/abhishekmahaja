@@ -135,7 +135,7 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 <br>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 </p>
 
 
