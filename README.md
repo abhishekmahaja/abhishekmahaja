@@ -137,10 +137,12 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 <br>
 
 Outside of [GitHub](https://github.com/abhishekmahaja), 
+<br>
 <br> **find me here***
-[![Twitter](https://example.com/twitter-icon.png)](https://twitter.com/your_twitter_handle)
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/your_linkedin_profile)
-[![Instagram](https://example.com/instagram-icon.png)](https://www.instagram.com/your_instagram_handle)
+[![Twitter](https://actual_url_to_twitter_icon.png)](https://twitter.com/your_twitter_handle)
+[![LinkedIn](https://actual_url_to_linkedin_icon.png)](https://www.linkedin.com/in/your_linkedin_profile)
+[![Instagram](https://actual_url_to_instagram_icon.png)](https://www.instagram.com/your_instagram_handle)
+
 
 ***Currently I'm free to contribute***  🛠️ 🖱️</br>
 ### Show some ❤️ by starring some of the repositories!
