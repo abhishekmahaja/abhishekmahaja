@@ -1,9 +1,13 @@
 ### Hi there 👋
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmahajan" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmahaja" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahajan" /></a> </p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a> 
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Abhishek Mahajan </h1>
 
