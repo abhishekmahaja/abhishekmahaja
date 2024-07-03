@@ -122,10 +122,7 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
   
 <br>
-  
-  
-
- <hr>
+ <br>
 
 
 <br>
@@ -136,16 +133,13 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 
  <br> 
- 
- <hr>
+ <br>
+<br>
 
-
-  <br>
-
-Outside of [GitHub](https://github.com/JOSBEAK/), 
+Outside of [GitHub](https://github.com/abhishekmahaja), 
 <br> **find me here***
-[![Twitter: Anurag](https://img.shields.io/twitter/follow/drecothea?style=social)](https://twitter.com/drecothea)
-[![Linkedin: Anurag Pandey](https://img.shields.io/badge/-Anurag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://t.co/gaKs2lyZgW?amp=1)](https://t.co/gaKs2lyZgW?amp=1)
-[![GitHub Anurag](https://img.shields.io/github/followers/JOSBEAK?label=follow&style=social)](https://github.com/JOSBEAK)
+[![Twitter: Abhi Mahajan](https://x.com/AbhiMahajan_001)](https://twitter.com/drecothea)
+[![Linkedin: Abhi Mahajan](https://www.linkedin.com/in/abhi-mahajan-451227241/)](https://t.co/gaKs2lyZgW?amp=1)
+[![Instagram Abhi Mahajan](https://www.instagram.com/abhi_mahajan_100/)](https://www.instagram.com/abhi_mahajan_100/)
 ***Currently I'm free to contribute***  🛠️ 🖱️</br>
 ### Show some ❤️ by starring some of the repositories!
