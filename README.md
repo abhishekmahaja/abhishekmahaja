@@ -92,15 +92,19 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/JOSBEAK/Books">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOSBEAK&repo=Books&theme=cobalt" />
+<a href="https://github.com/abhishekmahaja/Twitter-DAPP-Solidity-Blockchain-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Twitter-DAPP-Solidity-Blockchain-&theme=cobalt" />
 </a>
-<a href="https://github.com/Luffy-Nikhil/resume-builder-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luffy-Nikhil&repo=resume-builder-web-app&theme=cobalt" />
+<a href="https://github.com/abhishekmahaja/Personal-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Personal-Portfolio&theme=cobalt" />
 </a>
-<a href="https://github.com/JOSBEAK/unsplash_pics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOSBEAK&repo=unsplash_pics&theme=cobalt" />
+<a href="https://github.com/abhishekmahaja/User-Authentication-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=User-Authentication-Project&theme=cobalt" />
 </a>
+<a href="https://github.com/abhishekmahaja/Random-GIF-Generator-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Random-GIF-Generator-Project&theme=cobalt" />
+</a>
+
 
 <br />
 <br />
