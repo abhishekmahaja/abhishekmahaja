@@ -16,7 +16,9 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 - ⚡ Fun fact **Unstable electron**
 - 👤 How to reach me: abhishekmahajan8285@gmail.com
 
-<a href="https://x.com/">
+  
+
+<a href="[https://x.com/](https://twitter.com/drecothea)">
   <img align="left" alt="Abhishek Twitter" width="22px" src="https://x.com/AbhiMahajan_001" />
 </a>
 <a href="https://www.linkedin.com/in/abhi-mahajan-451227241/">
@@ -33,6 +35,8 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 </a>
 <br/>
 <br/>
+
+
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
