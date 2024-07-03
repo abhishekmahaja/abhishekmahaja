@@ -123,21 +123,17 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 </a>
 
-## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+
+## GitHub Streak Stats
 
 ## GitHub Streak Stats
 
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border=true" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border=true&date_format=%5BY%20%2FM%2Fd%5D" />
 </p>
 
-<br />
-<br />
-<br />
+
 <br /> 
 <br />
 <br />
