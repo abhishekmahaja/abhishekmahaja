@@ -39,13 +39,8 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 
   
-<div align="center" style="margin-top: 20px;">
-  <h3 style="color: #4CAF50; font-family: Arial, sans-serif;">
-    <b>📍 Profile Visitor Count</b>
-  </h3>
-  <div style="display: inline-block; padding: 10px; border-radius: 10px; background-color: #f5f5f5;">
-    <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&style=flat-square&color=blue" alt="Visitor Counter" />
-  </div>
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
 
