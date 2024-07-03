@@ -147,9 +147,10 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 Outside of [GitHub](https://github.com/abhishekmahaja), 
 <br>
 <br> **find me here***
-[![Twitter](https://actual_url_to_twitter_icon.png)](https://twitter.com/your_twitter_handle)
-[![LinkedIn](https://actual_url_to_linkedin_icon.png)](https://www.linkedin.com/in/your_linkedin_profile)
-[![Instagram](https://actual_url_to_instagram_icon.png)](https://www.instagram.com/your_instagram_handle)
+[![Twitter: Abhi Mahajan](https://img.shields.io/twitter/follow/drecothea?style=social)](https://x.com/AbhiMahajan_001)
+[![LinkedIn: Abhi Mahajan](https://img.shields.io/badge/connect%20with%20me%20on-linkedin-blue)](https://www.linkedin.com/in/abhi-mahajan-451227241/)
+[![Instagram: Abhi Mahajan](https://img.shields.io/badge/follow%20me%20on-instagram-orange)](https://www.instagram.com/abhi_mahajan_100/)
+
 
 
 ***Currently I'm free to contribute***  🛠️ 🖱️</br>
