@@ -118,31 +118,29 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 - [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
 
 
-
 <br />
 <br />
-
-
 
 </a>
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border=true" />
+## GitHub Activity
 
-  
-<br>
- <br>
-
-
-<br>
 <p align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+## GitHub Streak Stats
 
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border=true" />
+</p>
 
-<br> 
-<br>
-<br>
+<br />
+<br />
+<br />
+<br /> 
+<br />
+<br />
 
 Outside of [GitHub](https://github.com/abhishekmahaja), 
 <br>
