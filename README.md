@@ -41,11 +41,10 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 <a href="https://www.reddit.com/user/AbhiMahajan_100/">
   <img align="left" alt="Abhishek Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<br/>
-<br/>
-<br/>
 
-
+<br/>
+<br/>
+<br/>
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -124,13 +123,10 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 </a>
 
 
-
-## GitHub Streak Stats
-
 ## GitHub Streak Stats
 
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border=true&date_format=%5BY%20%2FM%2Fd%5D" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border" />
 </p>
 
 
