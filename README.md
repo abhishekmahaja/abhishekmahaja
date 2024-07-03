@@ -78,14 +78,15 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)&nbsp;
 ![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)&nbsp;
 
-
-
-
-
 <br>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JOSBEAK&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Abhishek github stats" /></a> |
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSBEAK&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" /></a> |
-</br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Abhishek's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmahaja&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" />
+</a>
+<br/>
 
 
 #### Top Repositories
