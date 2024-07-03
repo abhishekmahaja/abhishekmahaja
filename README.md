@@ -105,6 +105,11 @@ I'm a self-taught Programmer & developer from India 🇮🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Random-GIF-Generator-Project&theme=cobalt" />
 </a>
 
+### Live Apps:
+- [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/)
+- [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
+
+
 
 <br />
 <br />
@@ -113,7 +118,8 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 </a>
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JOSBEAK&theme=dark&hide_border=true" />
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border=true" />
+
   
 <br>
   
@@ -123,9 +129,10 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 
 <br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JOSBEAK&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 
  <br> 
