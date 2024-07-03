@@ -135,7 +135,8 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 <br>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <iframe src="https://activity-graph.herokuapp.com/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" width="800" height="300" frameborder="0"></iframe>
+
 </p>
 
 
@@ -147,7 +148,7 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 Outside of [GitHub](https://github.com/abhishekmahaja), 
 <br>
 <br> **find me here***
-[![Twitter: Abhi Mahajan](https://img.shields.io/twitter/follow/drecothea?style=social)](https://x.com/AbhiMahajan_001)
+[![Twitter: Abhi Mahajan](https://img.shields.io/twitter/follow/AbhiMahajan?style=social)](https://x.com/AbhiMahajan_001)
 [![LinkedIn: Abhi Mahajan](https://img.shields.io/badge/connect%20with%20me%20on-linkedin-blue)](https://www.linkedin.com/in/abhi-mahajan-451227241/)
 [![Instagram: Abhi Mahajan](https://img.shields.io/badge/follow%20me%20on-instagram-orange)](https://www.instagram.com/abhi_mahajan_100/)
 
