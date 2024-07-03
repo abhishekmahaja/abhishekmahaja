@@ -135,14 +135,13 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 <br>
 <p align="center">
-  <iframe src="https://activity-graph.herokuapp.com/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" width="800" height="300" frameborder="0"></iframe>
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhishekmahaja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 
 
- <br> 
- <br>
+<br> 
+<br>
 <br>
 
 Outside of [GitHub](https://github.com/abhishekmahaja), 
