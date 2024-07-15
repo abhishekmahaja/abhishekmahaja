@@ -111,9 +111,6 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 <a href="https://github.com/abhishekmahaja/Random-GIF-Generator-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Random-GIF-Generator-Project&theme=cobalt" />
 </a>
-<a href="https://github.com/abhishekmahaja/CSV-to-JSON-Converter-Using-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=CSV-to-JSON-Converter-Using-Python&theme=cobalt" />
-</a>
 
 
 ### Live Apps:
