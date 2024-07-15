@@ -90,6 +90,9 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Abhishek's GitHub Stats" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmahaja&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" />
+</a>
 <br/>
 
 
