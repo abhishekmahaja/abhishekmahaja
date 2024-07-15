@@ -112,7 +112,6 @@ I'm a self-taught Programmer & developer from India 🇮🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Random-GIF-Generator-Project&theme=cobalt" />
 </a>
 
-
 ### Live Apps:
 - [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/)
 - [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
