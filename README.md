@@ -1,7 +1,9 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/cover-thompson.png" alt="Cover Image" />
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" alt="Cover Image" />
 </p>
 ### Hi there 👋
+<p align="center"><img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/header.png"></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/header.png" alt="Header Image" />
 </p>
@@ -21,14 +23,18 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 **About me**
 
 - 🧑🏻‍💻 A passionate MERN stack developer and web3.0 enthusiast.
+- 🔗 I’m currently learning **Web3.0 , Blockchain**
 - 🔗 I’m currently learning **Web3.0, Blockchain**
 - 🍾 Always open for discussion.
+- 💬 Ask me about **React, Next.js, Nodejs, Solidity, Hedara**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BKBCVIHhjddisXSd_XoKNyNxZQ7gfBlc/view?usp=sharing](https://drive.google.com/file/d/1Gf8j61f9PMc8VCRhWtksNnJuOvPdHgsb/view?usp=drivesdk)
 - 💬 Ask me about **React, Next.js, Node.js, Solidity, Hedera**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Gf8j61f9PMc8VCRhWtksNnJuOvPdHgsb/view?usp=drivesdk)
 - 👨‍💻 Some of my projects are available at [https://abhimahajan-portfolio.netlify.app/](https://abhimahajan-portfolio.netlify.app/)
 - ⚡ Fun fact **Unstable electron**
 - 👤 How to reach me: abhishekmahajan8285@gmail.com
 
+  
 <a href="https://x.com/AbhiMahajan_001">
   <img align="left" alt="Abhishek Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -48,7 +54,8 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 <br/>
 <br/>
 <br/>
-
+  
+<div align=center>
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
@@ -84,9 +91,18 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)&nbsp;
 ![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)&nbsp;
 
+<br>
+<br>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Abhishek's GitHub Stats" />
+</a> -->
 <a href="https://github.com/abhishekmahaja/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmahaja&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" />
 </a>
+<!-- <a href="https://github.com/abhishekmahaja/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmahaja&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" />
+</a> -->
+<br/>
 
 #### Top Repositories
 
@@ -105,3 +121,23 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 ### Live Apps:
 - [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/)
+- [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
+<br />
+<br />
+</a>
+## GitHub Streak Stats
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border" />
+</p>
+<br /> 
+<br />
+<br />
+Outside of [GitHub](https://github.com/abhishekmahaja), 
+<br>
+<br> **find me here***
+[![Email](https://img.shields.io/badge/Email-abhishekmahajan8285%40gmail.com-blue)](mailto:abhishekmahajan8285@gmail.com)
+[![Twitter: Abhi Mahajan](https://img.shields.io/twitter/follow/AbhiMahajan?style=social)](https://x.com/AbhiMahajan_001)
+[![LinkedIn: Abhi Mahajan](https://img.shields.io/badge/connect%20with%20me%20on-linkedin-blue)](https://www.linkedin.com/in/abhi-mahajan-451227241/)
+[![Instagram: Abhi Mahajan](https://img.shields.io/badge/follow%20me%20on-instagram-orange)](https://www.instagram.com/abhi_mahajan_100/)
+***Currently I'm free to contribute***  🛠️ 🖱️</br>
+### Show some ❤️ by starring some of the repositories
