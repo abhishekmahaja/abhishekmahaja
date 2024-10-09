@@ -3,11 +3,7 @@
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" alt="Cover Image" />
 </p>
 ### Hi there 👋
-<p align="center"><img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/header.png"></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/header.png" alt="Header Image" />
-</p>
-
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmahaja" /> 
 </p>
