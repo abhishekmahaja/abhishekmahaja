@@ -1,5 +1,6 @@
+<p align="center"><img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/cover-thompson.png"></p>
 ### Hi there 👋
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/header.png"></p>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmahaja" /> 
@@ -9,7 +10,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a> 
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Abhishek Mahajan </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/Hi.gif" width="30px">, I am Abhishek Mahajan </h1>
 
 I'm a self-taught Programmer & developer from India 🇮🇳
 
@@ -18,7 +19,7 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 - 🧑🏻‍💻 A passionate MERN stack developer and web3.0 enthusiast.
 - 🔗 I’m currently learning **Web3.0 , Blockchain**
 - 🍾 Always open for discussion.
-- 💬 Ask me about **React, Nodejs, Solidity, Hedara**
+- 💬 Ask me about **React, Next.js, Nodejs, Solidity, Hedara**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BKBCVIHhjddisXSd_XoKNyNxZQ7gfBlc/view?usp=sharing](https://drive.google.com/file/d/1Gf8j61f9PMc8VCRhWtksNnJuOvPdHgsb/view?usp=drivesdk)
 - 👨‍💻 Some of my projects are available at [https://abhimahajan-portfolio.netlify.app/](https://abhimahajan-portfolio.netlify.app/)
 - ⚡ Fun fact **Unstable electron**
@@ -90,7 +91,7 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Abhishek's GitHub Stats" />
 </a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/abhishekmahaja/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmahaja&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" />
 </a>
 <!-- <a href="https://github.com/abhishekmahaja/github-readme-stats">
