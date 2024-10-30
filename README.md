@@ -23,7 +23,7 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 - 🔗 I’m currently learning **Web3.0, Blockchain**
 - 🍾 Always open for discussion.
 - 💬 Ask me about **React, Next.js, Nodejs, Solidity, Hedara**
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1CK8BapGRe7tl1hQFkWLtWCqysAon0Vu_/view?usp=drivesdk](https://drive.google.com/file/d/1R4wpuR-Z7A3EhdaQ2U4dsCwC8AF-uLjf/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1R4wpuR-Z7A3EhdaQ2U4dsCwC8AF-uLjf/view?usp=sharing](https://drive.google.com/file/d/1FBmv3uL8PoPqvOeFHdyKcnWqyPowQ_80/view?usp=sharing)
 - 💬 Ask me about **React, Next.js, Node.js, Solidity, Hedera**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Gf8j61f9PMc8VCRhWtksNnJuOvPdHgsb/view?usp=drivesdk)
 - 👨‍💻 Some of my projects are available at [https://abhimahajan-portfolio.netlify.app/](https://abhimahajan-portfolio.netlify.app/)
