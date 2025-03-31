@@ -23,9 +23,9 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 - 🔗 I’m currently learning **Web3.0, Blockchain**
 - 🍾 Always open for discussion.
 - 💬 Ask me about **React, Next.js, Nodejs, Solidity, Hedara**
-- 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/12Pj_PQBtYRXqltHPoVoDG0wuCjkxlWrz/view?usp=sharing)
+- 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1LrJSUH2zJxjDEJAn0gu78PzgWCXUOsT8/view?usp=sharing)
 - 💬 Ask me about **React, Next.js, Node.js, Solidity, Hedera**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/12Pj_PQBtYRXqltHPoVoDG0wuCjkxlWrz/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1LrJSUH2zJxjDEJAn0gu78PzgWCXUOsT8/view?usp=sharing)
 - 👨‍💻 Some of my projects are available at [https://abhimahajan-portfolio.netlify.app/](https://abhimahajan-portfolio.netlify.app/)
 - ⚡ Fun fact **Unstable electron**
 - 👤 How to reach me: abhishekmahajan8285@gmail.com
