@@ -47,7 +47,12 @@
 
 🖊️ Text Editors Used
 
-<p align="left"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" /> <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" /> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </p>
+<p align="left"> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </p>
 
 
 <div align="center">
@@ -58,19 +63,6 @@
 <p align="center">   
   <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&style=flat-square&color=blue" alt="Visitor Counter" />  
 </p>
-
-
-## My Badge Board
-
-[![@maxprogramming's Holopin board](https://holopin.me/abhishekmahaja)](https://www.holopin.io/@abhishekmahaja)
-
-<br />
-
-[website]: https://abhimahajan-portfolio.netlify.app/
-[instagram]: https://www.instagram.com/abhi_mahajan_100/
-[linkedin]: https://www.linkedin.com/in/abhi-abhi-451227241/
-[reddit]: https://www.reddit.com/user/AbhiMahajan_100/
-[X (Twitter)]: https://x.com/AbhiMahajan_001
 
 <div align="center">
 
