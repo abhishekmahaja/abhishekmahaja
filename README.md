@@ -5,6 +5,10 @@
 
 ### 01101000 01101001
 
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a> 
+</p>
+
 ### Hi there, I'm Abhishek Mahajan.
 <br>
 
@@ -116,60 +120,29 @@
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=merko)
+# GitHub Streak Stats
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahaja&theme=merko)
+
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border" />
+</p>
 
 </div>
 
 ### Hi there 👋
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmahaja" /> 
-</p>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a> 
-</p>
 
 <br/>
 <br/>
-<br/>
-<br>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Abhishek's GitHub Stats" />
-</a> -->
-<a href="https://github.com/abhishekmahaja/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmahaja&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" />
-</a>
-<!-- <a href="https://github.com/abhishekmahaja/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmahaja&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" />
-</a> -->
-<br/>
-
-#### Top Repositories
-
-<a href="https://github.com/abhishekmahaja/Twitter-DAPP-Solidity-Blockchain-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Twitter-DAPP-Solidity-Blockchain-&theme=cobalt" />
-</a>
-<a href="https://github.com/abhishekmahaja/Personal-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Personal-Portfolio&theme=cobalt" />
-</a>
-<a href="https://github.com/abhishekmahaja/User-Authentication-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=User-Authentication-Project&theme=cobalt" />
-</a>
-<a href="https://github.com/abhishekmahaja/Random-GIF-Generator-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekmahaja&repo=Random-GIF-Generator-Project&theme=cobalt" />
-</a>
 
 ### Live Apps:
 - [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/)
 - [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
 <br />
 <br />
+
 </a>
-## GitHub Streak Stats
-<p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border" />
-</p>
+
 <br /> 
 <br />
 <br />
