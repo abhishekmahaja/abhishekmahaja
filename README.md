@@ -111,13 +111,12 @@
 [stopstalk]: https://www.stopstalk.com/user/profile/mayankkuthar
 
 <div align="center">
-
 <br/>
 
 ### Live Apps:
-- [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/)
-- [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
-<br />
+
+🌐 [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/) &nbsp;&nbsp;&nbsp; 🌐 [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
+
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmahaja&theme=merko&show_icons=true&locale=en&layout=compact)
   
