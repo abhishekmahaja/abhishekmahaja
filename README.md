@@ -117,13 +117,13 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <a href="https://abhimahajan-portfolio.netlify.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Portfolio" /><br/>
         <b>Portfolio</b>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <a href="https://randamgifsgenerator.netlify.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="GIF Generator" /><br/>
         <b>GIF Generator</b>
