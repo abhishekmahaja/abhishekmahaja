@@ -54,12 +54,7 @@
 ![](https://img.shields.io/badge/Flask-414141?style=for-the-badge&logo=flask&logoColor=white)
 
   
-<div align=center>
 
-<!-- retro visitor counter -->  
-<p align="center">   
-  <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&style=flat-square&color=blue" alt="Visitor Counter" />  
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -88,21 +83,23 @@
 ![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)&nbsp;
 
 <br>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+<div align=center>
+
+<!-- retro visitor counter -->  
+<p align="center">   
+  <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&style=flat-square&color=blue" alt="Visitor Counter" />  
+</p>
 
 
 ## My Badge Board
 
 [![@maxprogramming's Holopin board](https://holopin.me/mayankkuthar8)](https://www.holopin.io/@mayankkuthar8)
 
-
 <br />
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-
-<br />
 
 [website]: https://mayankkuthar.github.io/CU-StudySpot/index.html
 [youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
@@ -132,9 +129,6 @@
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a> 
 </p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/Hi.gif" width="30px">, I am Abhishek Mahajan </h1>
-
 
 <br/>
 <br/>
