@@ -28,11 +28,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Abhishek | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abhimahajan-portfolio.netlify.app/)
-[<img align="left" alt="Abhishek | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />](https://x.com/AbhiMahajan_001)
+[<img align="left" alt="Abhishek | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_Logo_2023.svg" />](https://x.com/AbhiMahajan_001)
 [<img align="left" alt="Abhishek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhi-mahajan-451227241/)
 [<img align="left" alt="Abhishek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abhi_mahajan_100/)
 [<img align="left" alt="Abhishek | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/AbhiMahajan_100/)
-
 
 <br>
 
