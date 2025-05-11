@@ -23,7 +23,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1LrJSUH2zJxjDEJAn0gu78PzgWCXUOsT8/view?usp=sharing)
 - 👯 Always open for discussion.
-- 📫 <a href="mailto:abhishekmahajan8285@gmail.com?subject=Hello Abhishek&body=Hi Abhishek,%0D%0A%0D%0AI hope you're doing well. I wanted to get in touch with you regarding...">Email Abhishek</a>
 - 📫How to reach me: <a href="mailto:abhishekmahajan8285@gmail.com">abhishekmahajan8285@gmail.com</a>
 - 🥅 2025 Goals: Contribute more to Open Source projects.
 - 👨‍💻 Some of my projects are available at https://abhimahajan-portfolio.netlify.app/
