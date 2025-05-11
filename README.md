@@ -9,8 +9,8 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a> 
 </p>
 
-### Hi there, I'm Abhishek Mahajan.
 <br>
+### Hi there, I'm Abhishek Mahajan.
 
 ### I'm a Student, competitive programmer, Developer, and Open Source Enthusiast!!
 
@@ -92,7 +92,6 @@
 </div>
 <div align=center>
 
-<!-- retro visitor counter -->  
 <p align="center">   
   <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&style=flat-square&color=blue" alt="Visitor Counter" />  
 </p>
@@ -103,7 +102,6 @@
 [![@maxprogramming's Holopin board](https://holopin.me/mayankkuthar8)](https://www.holopin.io/@mayankkuthar8)
 
 <br />
-
 
 [website]: https://mayankkuthar.github.io/CU-StudySpot/index.html
 [youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
@@ -121,29 +119,11 @@
 - [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
 <br />
   
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&theme=merko&show_icons=true&locale=en&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmahaja&theme=merko&show_icons=true&locale=en&layout=compact)
   
-![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=dracula)
+![Abhishek Mahajan GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmahaja&theme=dracula)
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-# GitHub Streak Stats
-
+# GitHub Streak
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahaja&theme=merko)
-
-</div>
-
-### Hi there 👋
-
-<br/>
-<br />
-<br />
-Outside of [GitHub](https://github.com/abhishekmahaja), 
-<br>
-<br> **find me here***
-[![Email](https://img.shields.io/badge/Email-abhishekmahajan8285%40gmail.com-blue)](mailto:abhishekmahajan8285@gmail.com)
-[![Twitter: Abhi Mahajan](https://img.shields.io/twitter/follow/AbhiMahajan?style=social)](https://x.com/AbhiMahajan_001)
-[![LinkedIn: Abhi Mahajan](https://img.shields.io/badge/connect%20with%20me%20on-linkedin-blue)](https://www.linkedin.com/in/abhi-mahajan-451227241/)
-[![Instagram: Abhi Mahajan](https://img.shields.io/badge/follow%20me%20on-instagram-orange)](https://www.instagram.com/abhi_mahajan_100/)
-***Currently I'm free to contribute***  🛠️ 🖱️</br>
-### Show some ❤️ by starring some of the repositories
