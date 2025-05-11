@@ -53,12 +53,55 @@
 ![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Flask-414141?style=for-the-badge&logo=flask&logoColor=white)
 
+  
+<div align=center>
+
+<!-- retro visitor counter -->  
+<p align="center">   
+  <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&style=flat-square&color=blue" alt="Visitor Counter" />  
+</p>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Blockchain](https://img.shields.io/badge/-Blockchain-05122A?style=flat&logo=blockchain)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![Hedera](https://img.shields.io/badge/Hedera-2A3A49?style=for-the-badge&logo=hedera-hashgraph)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+
+### 🖊️ Text Editors used
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Remix](https://img.shields.io/badge/Remix-%23000000.svg?&style=for-the-badge&logo=remix&logoColor=white)&nbsp;
+![CodeSandbox](https://img.shields.io/badge/CodeSandbox-%23000000.svg?&style=for-the-badge&logo=codesandbox&logoColor=white)&nbsp;
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)&nbsp;
+![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)&nbsp;
+
+<br>
+
+
 ## My Badge Board
 
 [![@maxprogramming's Holopin board](https://holopin.me/mayankkuthar8)](https://www.holopin.io/@mayankkuthar8)
 
 
 <br />
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+
 <br />
 
 [website]: https://mayankkuthar.github.io/CU-StudySpot/index.html
@@ -96,44 +139,6 @@
 <br/>
 <br/>
 <br/>
-  
-<div align=center>
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<!-- retro visitor counter -->  
-<p align="center">   
-  <img src="https://komarev.com/ghpvc/?username=abhishekmahaja&style=flat-square&color=blue" alt="Visitor Counter" />  
-</p>
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Blockchain](https://img.shields.io/badge/-Blockchain-05122A?style=flat&logo=blockchain)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
-![Hedera](https://img.shields.io/badge/Hedera-2A3A49?style=for-the-badge&logo=hedera-hashgraph)&nbsp;
-![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-
-### 🖊️ Text Editors used
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Remix](https://img.shields.io/badge/Remix-%23000000.svg?&style=for-the-badge&logo=remix&logoColor=white)&nbsp;
-![CodeSandbox](https://img.shields.io/badge/CodeSandbox-%23000000.svg?&style=for-the-badge&logo=codesandbox&logoColor=white)&nbsp;
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)&nbsp;
-![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)&nbsp;
-
-<br>
 <br>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Abhishek's GitHub Stats" />
