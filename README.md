@@ -12,10 +12,9 @@
 
 <img align="right" src="coding-freak.gif" />
 
-🛠️ Skills :
   - 💻 Languages: HTML5, CSS3, C, C++, JavaScript, Solidity...
   - ⚙️ Technologies/Frameworks: React.js, Next.js, Node.js, Express.js, Hardhat, Web3.js, Tailwind CSS, WebSocket.io, Redux...
-  - 🔧 Tools/Platforms: Git/GitHub, VS Code, Vercel, Prisma, Render, Railway, Hostinger, CI/CD, Arduino, Redis...
+  - 🛠️ Tools/Platforms: Git/GitHub, VS Code, Vercel, Prisma, Render, Railway, Hostinger, CI/CD, Arduino, Redis...
   - 🗄️ Database: MySQL, MongoDB, PostgreSQL...
 - 🌱 I’m currently learning everything 🤣
 - 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1LrJSUH2zJxjDEJAn0gu78PzgWCXUOsT8/view?usp=sharing)
@@ -28,11 +27,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="CUstudyspot" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Zestfella | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mayank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mayank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mayank | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+[<img align="left" alt="Abhishek | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Abhishek | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][X]
+[<img align="left" alt="Abhishek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abhishek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Abhishek | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 
 <br>
 
