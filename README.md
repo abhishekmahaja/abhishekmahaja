@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Abhishek | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abhimahajan-portfolio.netlify.app/)
 [<img align="left" alt="Abhishek | X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/AbhiMahajan_001)
-[<img align="left" alt="Abhishek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhi-mahajan-451227241/)
+[<img align="left" alt="Abhishek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhi-abhi-451227241/)
 [<img align="left" alt="Abhishek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abhi_mahajan_100/)
 [<img align="left" alt="Abhishek | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/AbhiMahajan_100/)
 
@@ -92,22 +92,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/Hi.gif" width="30px">, I am Abhishek Mahajan </h1>
 
-  
-<a href="https://x.com/AbhiMahajan_001">
-  <img align="left" alt="Abhishek Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhi-mahajan-451227241/">
-  <img align="left" alt="Abhishek LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/abhishekmahaja">
-  <img align="left" alt="Abhishek GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/abhi_mahajan_100/">
-  <img align="left" alt="Abhishek Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/AbhiMahajan_100/">
-  <img align="left" alt="Abhishek Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 
 <br/>
 <br/>
