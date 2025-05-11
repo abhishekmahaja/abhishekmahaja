@@ -113,6 +113,13 @@
 [stopstalk]: https://www.stopstalk.com/user/profile/mayankkuthar
 
 <div align="center">
+
+<br/>
+
+### Live Apps:
+- [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/)
+- [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
+<br />
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&theme=merko&show_icons=true&locale=en&layout=compact)
   
@@ -124,26 +131,11 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahaja&theme=merko)
 
-<p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmahaja&theme=dark&hide_border" />
-</p>
-
 </div>
 
 ### Hi there 👋
 
 <br/>
-<br/>
-
-### Live Apps:
-- [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/)
-- [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
-<br />
-<br />
-
-</a>
-
-<br /> 
 <br />
 <br />
 Outside of [GitHub](https://github.com/abhishekmahaja), 
