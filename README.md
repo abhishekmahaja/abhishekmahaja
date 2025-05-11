@@ -113,10 +113,24 @@
 <div align="center">
 <br/>
 
-### Live Apps:
+### 🚀 Live Apps:
 
-🌐 [Personal Portfolio](https://abhimahajan-portfolio.netlify.app/) &nbsp;&nbsp;&nbsp; 🌐 [Random GIF Generator](https://randamgifsgenerator.netlify.app/)
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://abhimahajan-portfolio.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Portfolio" /><br/>
+        <b>Portfolio</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://randamgifsgenerator.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="GIF Generator" /><br/>
+        <b>GIF Generator</b>
+      </a>
+    </td>
+  </tr>
+</table>
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmahaja&theme=merko&show_icons=true&locale=en&layout=compact)
   
