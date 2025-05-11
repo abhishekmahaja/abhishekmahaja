@@ -38,6 +38,8 @@
 [<img align="left" alt="Abhishek | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/AbhiMahajan_100/)
 
 <br>
+<br>
+
 
 🛠 Tech Stack
 
@@ -47,7 +49,7 @@
 
 <p align="left"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" /> <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" /> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </p>
 
-<br>
+
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
@@ -60,16 +62,15 @@
 
 ## My Badge Board
 
-[![@maxprogramming's Holopin board](https://holopin.me/mayankkuthar8)](https://www.holopin.io/@mayankkuthar8)
+[![@maxprogramming's Holopin board](https://holopin.me/abhishekmahaja)](https://www.holopin.io/@abhishekmahaja)
 
 <br />
 
-[website]: https://mayankkuthar.github.io/CU-StudySpot/index.html
-[youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
-[instagram]: https://www.instagram.com/mayankkuthar/
-[linkedin]: https://www.linkedin.com/in/mayankkuthar/
-[codechef]: https://www.codechef.com/users/kutharmayank
-[stopstalk]: https://www.stopstalk.com/user/profile/mayankkuthar
+[website]: https://abhimahajan-portfolio.netlify.app/
+[instagram]: https://www.instagram.com/abhi_mahajan_100/
+[linkedin]: https://www.linkedin.com/in/abhi-abhi-451227241/
+[reddit]: https://www.reddit.com/user/AbhiMahajan_100/
+[X (Twitter)]: https://x.com/AbhiMahajan_001
 
 <div align="center">
 
@@ -101,5 +102,4 @@
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-# GitHub Streak
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahaja&theme=merko)
