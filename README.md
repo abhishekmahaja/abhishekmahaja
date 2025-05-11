@@ -5,19 +5,26 @@
 
 ### 01101000 01101001
 
-### Hi there, I'm Mayank Kuthar - aka [mayankkuthar][website]
+### Hi there, I'm Abhishek Mahajan.
 <br>
 
-### I'm a Student, Artist, competitive programmer, Developer, and Open Source Enthusiast!!
+### I'm a Student, competitive programmer, Developer, and Open Source Enthusiast!!
 
 <img align="right" src="coding-freak.gif" />
 
-- 💻 Languages : C, C++, Python, html, Javascript...
+- 🛠️ Skills : {
+      - 💻 Languages : HTML5, CSS3, C, C++, JavaScript, Solidity...
+      - ⚙️ Technologies/Frameworks : React.js, Next.js, Node.js, Express.js, Hardhat, Web3.js, Tailwind CSS, WebSocket.io, Redux...
+      - 🔧 Tools/Platforms : Git/GitHub, VS Code, Vercel, Prisma, Render, Railway, Hostinger, CI/CD, Arduino, Redis...
+      - 🗄️ Database : MySQL, MongoDB, PostgreSQL...
+}
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with Open Source Organizations
-- 📫 How to reach me: mayank8055neel@gmail.com
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: If it works don't TOUCH it.
+- 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1LrJSUH2zJxjDEJAn0gu78PzgWCXUOsT8/view?usp=sharing)
+- 👯 Always open for discussion.
+- 📫 How to reach me: abhishekmahajan8285@gmail.com
+- 🥅 2025 Goals: Contribute more to Open Source projects.
+- 👨‍💻 Some of my projects are available at https://abhimahajan-portfolio.netlify.app/
+- ⚡ Fun fact: If it works don't TOUCH it || Unstable electron.
 
 
 ### Connect with me:
@@ -86,22 +93,6 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/abhishekmahaja/abhishekmahaja/master/Hi.gif" width="30px">, I am Abhishek Mahajan </h1>
-
-I'm a self-taught Programmer & developer from India 🇮🇳
-
-**About me**
-
-- 🧑🏻‍💻 A passionate MERN stack developer and web3.0 enthusiast.
-- 🔗 I’m currently learning **Web3.0 , Blockchain**
-- 🔗 I’m currently learning **Web3.0, Blockchain**
-- 🍾 Always open for discussion.
-- 💬 Ask me about **React, Next.js, Nodejs, Solidity, Hedara**
-- 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1LrJSUH2zJxjDEJAn0gu78PzgWCXUOsT8/view?usp=sharing)
-- 💬 Ask me about **React, Next.js, Node.js, Solidity, Hedera**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1LrJSUH2zJxjDEJAn0gu78PzgWCXUOsT8/view?usp=sharing)
-- 👨‍💻 Some of my projects are available at [https://abhimahajan-portfolio.netlify.app/](https://abhimahajan-portfolio.netlify.app/)
-- ⚡ Fun fact **Unstable electron**
-- 👤 How to reach me: abhishekmahajan8285@gmail.com
 
   
 <a href="https://x.com/AbhiMahajan_001">
