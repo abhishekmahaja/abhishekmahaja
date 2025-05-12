@@ -163,9 +163,9 @@
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://myfareshub.netlify.app/" target="_blank">
+      <a href="https://study-notion-mern-stack.netlify.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Study Point" /><br/>
-        <b>Study Point</b>
+        <b>Study Notion</b>
       </a>
     </td>
   </tr>
