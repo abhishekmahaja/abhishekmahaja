@@ -157,7 +157,7 @@
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://myfareshub.netlify.app/" target="_blank">
+      <a href="https://project-management-five-gamma.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Project Management" /><br/>
         <b>Project Management</b>
       </a>
@@ -179,4 +179,5 @@
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahaja&theme=merko)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahajan&theme=merko)
+
