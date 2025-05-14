@@ -181,3 +181,6 @@
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahajan&theme=merko)
 
+</br>
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekmahaja&theme=react-dark)
+
