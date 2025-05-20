@@ -1,12 +1,14 @@
+# 💫 01101000 01101001 👋, I'm Abhishek Mahajan
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" alt="Cover Image" />
 </p>
 
-### 01101000 01101001
+## 🏆 GitHub Trophies
 
 <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a> 
+<!--     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a>  -->
+  ![](https://github-profile-trophy.vercel.app/?username=abhishekmahaja&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 </p>
 
 <br>
