@@ -190,6 +190,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <br/>
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmahaja&theme=merko&show_icons=true&locale=en&layout=compact)
@@ -199,6 +203,15 @@
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekmahajan&theme=merko)
+
+
+<div align="center">
+<h3>✍️ Random Dev Quote</h3>
+<hr style="width:50%; margin:auto;">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+</div>
 
 
 
