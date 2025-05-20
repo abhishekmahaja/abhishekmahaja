@@ -7,8 +7,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="left"> 
-<!--     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja" alt="abhishekmahaja" /></a>  -->
-  ![](https://github-profile-trophy.vercel.app/?username=abhishekmahaja&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja&theme=darkhub" alt="abhishekmahaja" />
+</a>
+
 </p>
 
 <br>
