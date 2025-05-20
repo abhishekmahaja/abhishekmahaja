@@ -18,7 +18,7 @@
 </p>
 
 <br>
-### Hi there, I'm Abhishek Mahajan.
+<!-- ### Hi there, I'm Abhishek Mahajan. -->
 
 ### I'm a Student, competitive programmer, Developer, and Open Source Enthusiast!!
 
