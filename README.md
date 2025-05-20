@@ -147,48 +147,49 @@
   <tr>
     <td align="center" width="140">
       <a href="https://abhimahajan-portfolio.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Portfolio" /><br/>
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40px" alt="Portfolio" /><br/>
         <b>Portfolio</b>
       </a>
     </td>
     <td align="center" width="140">
       <a href="https://randamgifsgenerator.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="GIF Generator" /><br/>
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40px" alt="GIF Generator" /><br/>
         <b>GIF Generator</b>
       </a>
     </td>
     <td align="center" width="140">
       <a href="https://multicompanylivedatashow.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Multi Org" /><br/>
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40px" alt="Multi Org" /><br/>
         <b>Multi Org</b>
       </a>
     </td>
     <td align="center" width="140">
       <a href="https://travel-in-package.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Travel Package" /><br/>
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40px" alt="Travel Package" /><br/>
         <b>Travel Package</b>
       </a>
     </td>
     <td align="center" width="140">
       <a href="https://myfareshub.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Farehub" /><br/>
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40px" alt="Farehub" /><br/>
         <b>Farehub</b>
       </a>
     </td>
     <td align="center" width="140">
       <a href="https://project-management-five-gamma.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Project Management" /><br/>
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40px" alt="Project Management" /><br/>
         <b>Project Management</b>
       </a>
     </td>
     <td align="center" width="140">
       <a href="https://study-notion-mern-stack.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Study Point" /><br/>
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40px" alt="Study Notion" /><br/>
         <b>Study Notion</b>
       </a>
     </td>
   </tr>
 </table>
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
