@@ -7,18 +7,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="left"> 
-<!--     <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja&theme=darkhub" alt="abhishekmahaja" />
-</a> -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=abhishekmahaja&theme=radical" alt="abhishekmahaja" />
 </a>
-
-
 </p>
-
-<br>
-<!-- ### Hi there, I'm Abhishek Mahajan. -->
 
 ### I'm a Student, competitive programmer, Developer, and Open Source Enthusiast!!
 
