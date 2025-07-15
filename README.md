@@ -190,12 +190,11 @@
 <br/>
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmahaja&theme=merko&show_icons=true&locale=en&layout=compact)
-  
-![Abhishek Mahajan GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&theme=dracula&hide_border=false)
-  
-## 🟢 GitHub Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekmahaja&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Abhishek Mahajan GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekmahaja&show_icons=true&theme=dracula&hide_border=false)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekmahaja&theme=dracula&hide_border=false)](https://git.io/streak-stats)
+
 
 
 
