@@ -195,19 +195,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhishekmahaja&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 
-## 🔥 My GitHub Streak
-
-<a href="https://github.com/abhishekmahaja">
-  <img 
-    src="https://streak-stats.demolab.com?user=abhishekmahaja&theme=gruvbox&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak for Abhishek Mahajan"
-    width="100%"
-  />
-</a>
-
-
-
-
 
 <div align="center">
 <h3>✍️ Random Dev Quote</h3>
