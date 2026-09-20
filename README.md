@@ -21,7 +21,7 @@
   - 🛠️ Tools/Platforms: Git/GitHub, VS Code, Vercel, Prisma, Render, Railway, Hostinger, CI/CD, Arduino, Redis...
   - 🗄️ Database: MySQL, MongoDB, PostgreSQL...
 - 🌱 I’m currently learning everything 🤣
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1jNhlp6FGcdhLYwgKDz52KB9Ja7sPEC3y/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1TpSwDJpZGwUnS_wKBbGqIz2cplPP5JmZ/view?usp=sharing)
 - 📄 Know about my Full experiences [Click Here](https://drive.google.com/file/d/16lzRqhIQap4_plbhlvG69POM9BtXZTh7/view?usp=sharing)
 - 👯 Always open for discussion.
 - 📫 How to reach me: <a href="mailto:abhishekmahajan8285@gmail.com">abhishekmahajan8285@gmail.com</a>
